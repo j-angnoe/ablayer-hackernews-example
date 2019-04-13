@@ -1,0 +1,26 @@
+{
+  "name": "ablayer-hackernews-example",
+  "version": "0.0.1",
+  "description": "An example of using ablayer to augment hackernews and add functionality.",
+  "main": "''",
+  "scripts": {
+    "start": "ablayer --url https://news.ycombinator.com --port 9900"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-angnoe/ablayer-hackernews-example.git"
+  },
+  "keywords": [
+    "ablayer",
+    "hackernews"
+  ],
+  "author": "Joshua Angnoe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j-angnoe/ablayer-hackernews-example/issues"
+  },
+  "homepage": "https://github.com/j-angnoe/ablayer-hackernews-example#readme",
+  "dependencies": {
+    "ablayer": "^0.0.2"
+  }
+}
