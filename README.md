@@ -1,6 +1,6 @@
 # Ablayer hackernews example
 
-This is a demonstration of how ablayer can be used to locally 
+This is a demonstration of how [ablayer](https://github.com/j-angnoe/ablayer) can be used to locally 
 augment the functionality of an external site.
 
 It features:
