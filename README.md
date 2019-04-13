@@ -13,9 +13,9 @@ When you run this example you'll be able to browse hackernews
 via http://localhost:9900. 
 
 ## How it works
-We overwrite the external news.css with our local [./news.css](./blob/master/news.css)
+We overwrite the external news.css with our local [./news.css](./news.css)
 
-The new/seen/read functionality can be  found inside [./abtest.js](./blob/master/abtest.js)
+The new/seen/read functionality can be  found inside [./abtest.js](./abtest.js)
 This file will be injected in the <head> of html files that are 
 served via ablayer. This allows us to inject our own functionality.
 
